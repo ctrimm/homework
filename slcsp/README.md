@@ -1,3 +1,5 @@
+## For instrcutions with how to run, please read the COMMENTS.md file.
+
 Calculate second lowest cost silver plan (SLCSP)
 ================================================
 
