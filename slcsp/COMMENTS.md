@@ -13,9 +13,10 @@ Pre-requisites (Assuming Mac OS X Development Environment):
 
 Steps:
 
-1. Once all pre-requisites are installed, run `npm install` to install a couple dependencies
-2. Once dependencies are installed, run `node index.js` to generate the `slcsp_answer.csv` file.
-3. To run the test suite `npm test`
+1. Once all pre-requisites are installed, clone this repository to your computer or unzip the `.zip` file.
+2. Run `npm install` to install a couple dependencies
+3. Once dependencies are installed, run `node index.js` to generate the `slcsp_answer.csv` file.
+4. To run the test suite `npm test`
 
 ### Testing Framework & Libraries
 
